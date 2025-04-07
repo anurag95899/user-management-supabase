@@ -35,9 +35,13 @@ A simple authentication app built with **React**, **TypeScript**, and **Supabase
    ```bash
    npm install
 
-2. **Set up environment variables**  
+3. **Set up environment variables(.env)**  
    ```bash
    REACT_APP_SUPABASE_URL=your-supabase-url
    REACT_APP_SUPABASE_ANON_KEY=your-supabase-anon-key
+
+4. **Run server**  
+   ```bash
+   npm start
    
    
